@@ -1,0 +1,24 @@
+{
+  "name": "testing_with_playwright",
+  "version": "1.0.0",
+  "description": "performing the automation tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/THOTAGANESH007/Testing"
+  },
+  "keywords": [
+    "Bro_I_don't_care"
+  ],
+  "author": "THOTAGANESH007",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^11.11.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
