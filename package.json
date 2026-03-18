@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "performing the automation tasks",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "github.com/THOTAGANESH007/Testing"
@@ -19,6 +17,7 @@
     "npm": "^11.11.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.58.2"
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
   }
 }
